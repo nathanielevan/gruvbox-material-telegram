@@ -8,7 +8,7 @@ Port of the [Gruvbox Material colour scheme](https://github.com/sainnhe/gruvbox-
 * On the Telegram desktop client, go to "Settings" --> "Chat Settings" --> Triple dot menu on top-right --> Create new theme --> Import existing theme
 
 ### Install link
-Alternatively, you may automatically add this theme to your client by visiting [this link](https://t.me/addtheme/gruvboxmaterialdark).
+Alternatively, you may automatically add this theme to your client by visiting [this link](https://t.me/addtheme/gruvmaterialdark).
 
 Any contribution would be much appreciated!
 
