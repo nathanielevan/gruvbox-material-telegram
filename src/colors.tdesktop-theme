@@ -49,8 +49,8 @@ scrollBg: #92837430; // default scroll bar background
 scrollBgOver: #9283744c; // default scroll bar background with mouse over the scroll bar
 smallCloseIconFg: #928374; // small X icon (like in Show all sessions box to the right for sessions termination)
 smallCloseIconFgOver: #a89984; // small X icon with mouse over
-radialFg: windowFgActive; // default radial loader line (like in Media Viewer when loading a photo)
-radialBg: #28282856; // default radial loader background (like in Media Viewer when loading a photo)
+radialFg: #e2d3ba; // default radial loader line (like in Media Viewer when loading a photo)
+radialBg: #282828aa; // default radial loader background (like in Media Viewer when loading a photo)
 placeholderFg: windowSubTextFg; // default input field placeholder when field is not focused (like in phone input field when you log in)
 placeholderFgActive: placeholderFg; // default input field placeholder when field is focused
 inputBorderFg: #e2d3ba; // default input field bottom border (like in code input field when you log in and field is not focused)
@@ -255,7 +255,7 @@ historyScrollBg: scrollBg; // scroll bar background (adjusted)
 historyScrollBgOver: scrollBgOver; // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: #32302f; // inbox message background
 msgInBgSelected: #d8a657; // inbox selected message background (and background of selected text in those messages)
-msgOutBg: #3c3836; // outbox message background
+msgOutBg: #45403d; // outbox message background
 msgOutBgSelected: #d8a657; // outbox selected message background (and background of selected text in those messages)
 msgSelectOverlay: #d8a6574c; // overlay which is filling the media parts of selected messages (like in selected photo message)
 msgStickerOverlay: #d8a6577f; // overlay which is filling the selected sticker message
@@ -288,7 +288,7 @@ msgDateImgBg: #e2d3bab0; // media message time bubble background (like time bubb
 msgDateImgBgOver: #e2d3ba; // media message download icon circle background with mouse over (like file with thumbnail download icon)
 msgDateImgBgSelected: #d8a657b0; // selected media message time bubble background
 msgFileThumbLinkInFg: lightButtonFg; // inbox media file message with thumbnail download / open with button text
-msgFileThumbLinkInFgSelected: lightButtonFgOver; // inbox selected media file message with thumbnail download / open with button text
+msgFileThumbLinkInFgSelected: #a96b2c; // inbox selected media file message with thumbnail download / open with button text
 msgFileThumbLinkOutFg: #a9b665; // outbox media file message with thumbnail download / open with button text
 msgFileThumbLinkOutFgSelected: #6f8352; // outbox selected media file message with thumbnail download / open with button text
 msgFileInBg: windowBgActive; // inbox audio file download circle background
@@ -417,7 +417,7 @@ mediaviewMenuFg: #e2d3ba; // context menu item text
 mediaviewBg: #282828eb; // Media Viewer background
 mediaviewVideoBg: imageBg; // Media Viewer background when viewing a video in full screen
 mediaviewControlBg: #1d20213c; // controls background (like next photo / previous photo)
-mediaviewControlFg: #282828; // controls icon (like next photo / previous photo)
+mediaviewControlFg: #e2d3ba; // controls icon (like next photo / previous photo)
 mediaviewCaptionBg: #1d202180; // caption text background (when viewing photo with caption)
 mediaviewCaptionFg: mediaviewControlFg; // caption text
 mediaviewTextLinkFg: #d8a657; // caption text link
