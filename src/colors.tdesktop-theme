@@ -478,7 +478,7 @@ sideBarBg: #32302f;
 sideBarBgActive: #282828;
 sideBarTextFgActive: #d8a657;
 sideBarIconFgActive: #e2d3ba;
-sideBarBgRipple: #45403d88;
+sideBarBgRipple: #45403d;
 sideBarBadgeBg: #d8a657;
 sideBarTextFg: #928374;
 sideBarIconFg: #928374;
