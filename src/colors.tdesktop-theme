@@ -474,3 +474,13 @@ settingsIconBg8: #e78a4e; // dark-orange settings icon background
 settingsIconBgArchive: #928374; // archive main menu icon background
 settingsIconFg: #32302f; // settings icon shape
 spellUnderline: #ea6962; // misspelled words
+sideBarBg: #32302f;
+sideBarBgActive: #282828;
+sideBarTextFgActive: #d8a657;
+sideBarIconFgActive: #e2d3ba;
+sideBarBgRipple: #45403d88;
+sideBarBadgeBg: #d8a657;
+sideBarTextFg: #928374;
+sideBarIconFg: #928374;
+sideBarBadgeBgMuted: #7c6f64;
+sideBarBadgeFg: #282828;
