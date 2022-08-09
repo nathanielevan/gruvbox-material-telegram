@@ -1,7 +1,7 @@
 windowBg: #282828; // white: fallback for background
 windowFg: #e2d3ba; // black: fallback for text
-windowBgOver: #32302f; // light gray: fallback for background with mouse over
-windowBgRipple: #3c3836; // darker gray: fallback for ripple effect
+windowBgOver: #3c3836; // light gray: fallback for background with mouse over
+windowBgRipple: #45403d; // darker gray: fallback for ripple effect
 windowFgOver: windowFg; // black: fallback for text with mouse over
 windowSubTextFg: #928374; // gray: fallback for additional text
 windowSubTextFgOver: #a89984; // darker gray: fallback for additional text with mouse over
@@ -39,7 +39,7 @@ menuBg: #282828; // default popup menu background
 menuBgOver: windowBgOver; // default popup menu item background with mouse over
 menuBgRipple: windowBgRipple; // default popup menu item ripple effect
 menuIconFg: #928374; // default popup menu item icon (like main menu)
-menuIconFgOver: #a89984; // default popup menu item icon with mouse over
+menuIconFgOver: #d4be98; // default popup menu item icon with mouse over
 menuSubmenuArrowFg: #928374; // default popup menu submenu arrow icon (like in message field context menu in case of RTL system language)
 menuFgDisabled: #7c6f64; // default popup menu item disabled text (like unavailable items in message field context menu)
 menuSeparatorFg: #45403d; // default popup menu separator (like in message field context menu)
