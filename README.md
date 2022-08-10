@@ -14,4 +14,4 @@ Any contribution would be much appreciated!
 
 ## Screenshot
 
-![Screenshot](screenshot.png?raw=true)
+![Screenshot](https://user-images.githubusercontent.com/9361126/183894872-4e721645-a359-48eb-b8f0-f10d6ca27781.png)
